@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaskSearch</string>
+    <string name="search_by_year">Write years of movie</string>
+    <string name="name">Movie Name : </string>
+    <string name="year">Year : </string>
+    <string name="rating">"Rating : "</string>
+    <string name="genres">"Genres : "</string>
+    <string name="casts">Casts : </string>
+</resources>
